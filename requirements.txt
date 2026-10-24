@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pandas
+tqdm
+psycopg2-binary
+dbt-core
+dbt-postgres

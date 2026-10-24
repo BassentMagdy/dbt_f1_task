@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: raw
+    description: tables that the python extractor (EL) loads into postgres
+    schema: public
+    tables:
+      - name: raw_races
+      - name: raw_drivers
+      - name: raw_results

@@ -1,0 +1,16 @@
+name: 'f1_transform'
+version: '1.0.0'
+profile: 'f1_transform'
+
+model-paths: ["models"]
+
+models:
+  f1_transform:
+    staging:
+      +materialized: view
+    dimensions:
+      +materialized: table
+    facts:
+      +materialized: table
+    analysis:
+      +materialized: table

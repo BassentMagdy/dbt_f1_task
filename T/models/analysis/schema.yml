@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: team_points_per_year
+    description: total points of each team in each year
