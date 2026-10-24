@@ -1,0 +1,223 @@
+year,pos,first_name,last_name,short_name,url,nationality,team,team_url,pts
+1958,1,Mike,Hawthorn,HAW,https://www.formula1.com/en/results/1958/drivers/MIKHAW01/mike-hawthorn,GBR,Ferrari,https://www.formula1.com/en/results/1958/team/Ferrari,42
+1958,2,Stirling,Moss,MOS,https://www.formula1.com/en/results/1958/drivers/STIMOS01/stirling-moss,GBR,Vanwall,https://www.formula1.com/en/results/1958/team/Vanwall,41
+1958,3,Tony,Brooks,BRO,https://www.formula1.com/en/results/1958/drivers/TONBRO01/tony-brooks,GBR,Vanwall,https://www.formula1.com/en/results/1958/team/Vanwall,24
+1958,4,Roy,Salvadori,SAL,https://www.formula1.com/en/results/1958/drivers/ROYSAL01/roy-salvadori,GBR,Cooper Climax,https://www.formula1.com/en/results/1958/team/Cooper-Climax,15
+1958,5,Peter,Collins,COL,https://www.formula1.com/en/results/1958/drivers/PETCOL01/peter-collins,GBR,Ferrari,https://www.formula1.com/en/results/1958/team/Ferrari,14
+1958,5,Harry,Schell,SCH,https://www.formula1.com/en/results/1958/drivers/HARSCH01/harry-schell,USA,BRM,https://www.formula1.com/en/results/1958/team/BRM,14
+1958,7,Maurice,Trintignant,TRI,https://www.formula1.com/en/results/1958/drivers/MAUTRI01/maurice-trintignant,FRA,Cooper Climax,https://www.formula1.com/en/results/1958/team/Cooper-Climax,12
+1958,7,Luigi,Musso,MUS,https://www.formula1.com/en/results/1958/drivers/LUIMUS01/luigi-musso,ITA,Ferrari,https://www.formula1.com/en/results/1958/team/Ferrari,12
+1958,9,Stuart,Lewis-Evans,LEW,https://www.formula1.com/en/results/1958/drivers/STULEW01/stuart-lewis-evans,GBR,Vanwall,https://www.formula1.com/en/results/1958/team/Vanwall,11
+1958,10,Phil,Hill,HIL,https://www.formula1.com/en/results/1958/drivers/PHIHIL01/phil-hill,USA,Ferrari,https://www.formula1.com/en/results/1958/team/Ferrari,9
+1958,10,Jean,Behra,BEH,https://www.formula1.com/en/results/1958/drivers/JEABEH01/jean-behra,FRA,BRM,https://www.formula1.com/en/results/1958/team/BRM,9
+1958,10,Wolfgang,von Trips,VON,https://www.formula1.com/en/results/1958/drivers/WOLVON01/wolfgang-von-trips,GER,Ferrari,https://www.formula1.com/en/results/1958/team/Ferrari,9
+1958,13,Jimmy,Bryan,BRY,https://www.formula1.com/en/results/1958/drivers/JIMBRY01/jimmy-bryan,USA,Epperly Offenhauser,https://www.formula1.com/en/results/1958/team/Epperly-Offenhauser,8
+1958,14,Juan Manuel,Fangio,FAN,https://www.formula1.com/en/results/1958/drivers/JUAFAN01/juan-manuel-fangio,ARG,Maserati,https://www.formula1.com/en/results/1958/team/Maserati,7
+1958,15,George,Amick,AMI,https://www.formula1.com/en/results/1958/drivers/GEOAMI01/george-amick,USA,Epperly Offenhauser,https://www.formula1.com/en/results/1958/team/Epperly-Offenhauser,6
+1958,16,Tony,Bettenhausen,BET,https://www.formula1.com/en/results/1958/drivers/TONBET01/tony-bettenhausen,USA,Epperly Offenhauser,https://www.formula1.com/en/results/1958/team/Epperly-Offenhauser,4
+1958,16,Johnny,Boyd,BOY,https://www.formula1.com/en/results/1958/drivers/JOHBOY01/johnny-boyd,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1958/team/Kurtis-Kraft-Offenhauser,4
+1958,18,Jack,Brabham,BRA,https://www.formula1.com/en/results/1958/drivers/JACBRA01/jack-brabham,AUS,Cooper Climax,https://www.formula1.com/en/results/1958/team/Cooper-Climax,3
+1958,18,Cliff,Allison,ALL,https://www.formula1.com/en/results/1958/drivers/CLIALL01/cliff-allison,GBR,Lotus Climax,https://www.formula1.com/en/results/1958/team/Lotus-Climax,3
+1958,18,Jo,Bonnier,BON,https://www.formula1.com/en/results/1958/drivers/JOOBON01/jo-bonnier,SWE,BRM,https://www.formula1.com/en/results/1958/team/BRM,3
+1958,21,Jim,Rathmann,RAT,https://www.formula1.com/en/results/1958/drivers/JIMRAT01/jim-rathmann,USA,Epperly Offenhauser,https://www.formula1.com/en/results/1958/team/Epperly-Offenhauser,2
+1955,1,Juan Manuel,Fangio,FAN,https://www.formula1.com/en/results/1955/drivers/JUAFAN01/juan-manuel-fangio,ARG,Mercedes-Benz,https://www.formula1.com/en/results/1955/team/Mercedes-Benz,40
+1955,2,Stirling,Moss,MOS,https://www.formula1.com/en/results/1955/drivers/STIMOS01/stirling-moss,GBR,Mercedes-Benz,https://www.formula1.com/en/results/1955/team/Mercedes-Benz,23
+1955,3,Eugenio,Castellotti,CAS,https://www.formula1.com/en/results/1955/drivers/EUGCAS01/eugenio-castellotti,ITA,Ferrari,https://www.formula1.com/en/results/1955/team/Ferrari,12
+1955,4,Maurice,Trintignant,TRI,https://www.formula1.com/en/results/1955/drivers/MAUTRI01/maurice-trintignant,FRA,Ferrari,https://www.formula1.com/en/results/1955/team/Ferrari,11.3
+1955,5,Nino,Farina,FAR,https://www.formula1.com/en/results/1955/drivers/NINFAR01/nino-farina,ITA,Ferrari,https://www.formula1.com/en/results/1955/team/Ferrari,10.3
+1955,6,Piero,Taruffi,TAR,https://www.formula1.com/en/results/1955/drivers/PIETAR01/piero-taruffi,ITA,Mercedes-Benz,https://www.formula1.com/en/results/1955/team/Mercedes-Benz,9
+1955,7,Bob,Sweikert,SWE,https://www.formula1.com/en/results/1955/drivers/BOBSWE01/bob-sweikert,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1955/team/Kurtis-Kraft-Offenhauser,8
+1955,8,Roberto,Mieres,MIE,https://www.formula1.com/en/results/1955/drivers/ROBMIE01/roberto-mieres,ARG,Maserati,https://www.formula1.com/en/results/1955/team/Maserati,7
+1955,9,Luigi,Musso,MUS,https://www.formula1.com/en/results/1955/drivers/LUIMUS01/luigi-musso,ITA,Maserati,https://www.formula1.com/en/results/1955/team/Maserati,6
+1955,9,Jean,Behra,BEH,https://www.formula1.com/en/results/1955/drivers/JEABEH01/jean-behra,FRA,Maserati,https://www.formula1.com/en/results/1955/team/Maserati,6
+1955,11,Karl,Kling,KLI,https://www.formula1.com/en/results/1955/drivers/KARKLI01/karl-kling,GER,Mercedes-Benz,https://www.formula1.com/en/results/1955/team/Mercedes-Benz,5
+1955,12,Jimmy,Davies,DAV,https://www.formula1.com/en/results/1955/drivers/JIMDAV01/jimmy-davies,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1955/team/Kurtis-Kraft-Offenhauser,4
+1955,13,Paul,Russo,RUS,https://www.formula1.com/en/results/1955/drivers/PAURUS01/paul-russo,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1955/team/Kurtis-Kraft-Offenhauser,3
+1955,13,Tony,Bettenhausen,BET,https://www.formula1.com/en/results/1955/drivers/TONBET01/tony-bettenhausen,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1955/team/Kurtis-Kraft-Offenhauser,3
+1955,13,Johnny,Thomson,THO,https://www.formula1.com/en/results/1955/drivers/JOHTHO01/johnny-thomson,USA,Kuzma Offenhauser,https://www.formula1.com/en/results/1955/team/Kuzma-Offenhauser,3
+1955,13,Paul,Frere,FRE,https://www.formula1.com/en/results/1955/drivers/PAUFRE01/paul-frere,BEL,Ferrari,https://www.formula1.com/en/results/1955/team/Ferrari,3
+1955,17,Jose Froilan,Gonzalez,GON,https://www.formula1.com/en/results/1955/drivers/JOSGON01/jose-froilan-gonzalez,ARG,Ferrari,https://www.formula1.com/en/results/1955/team/Ferrari,2
+1955,17,Cesare,Perdisa,PER,https://www.formula1.com/en/results/1955/drivers/CESPER01/cesare-perdisa,ITA,Maserati,https://www.formula1.com/en/results/1955/team/Maserati,2
+1955,17,Luigi,Villoresi,VIL,https://www.formula1.com/en/results/1955/drivers/LUIVIL01/luigi-villoresi,ITA,Lancia,https://www.formula1.com/en/results/1955/team/Lancia,2
+1955,17,Carlos,Menditeguy,MEN,https://www.formula1.com/en/results/1955/drivers/CARMEN01/carlos-menditeguy,ARG,Maserati,https://www.formula1.com/en/results/1955/team/Maserati,2
+1955,21,Umberto,Maglioli,MAG,https://www.formula1.com/en/results/1955/drivers/UMBMAG01/umberto-maglioli,ITA,Ferrari,https://www.formula1.com/en/results/1955/team/Ferrari,1.3
+1955,22,Hans,Herrmann,HER,https://www.formula1.com/en/results/1955/drivers/HANHER01/hans-herrmann,GER,Mercedes-Benz,https://www.formula1.com/en/results/1955/team/Mercedes-Benz,1
+1955,22,Walt,Faulkner,FAU,https://www.formula1.com/en/results/1955/drivers/WALFAU01/walt-faulkner,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1955/team/Kurtis-Kraft-Offenhauser,1
+1955,22,Bill,Homeier,HOM,https://www.formula1.com/en/results/1955/drivers/BILHOM01/bill-homeier,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1955/team/Kurtis-Kraft-Offenhauser,1
+1955,22,Bill,Vukovich,VUK,https://www.formula1.com/en/results/1955/drivers/BILVUK01/bill-vukovich,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1955/team/Kurtis-Kraft-Offenhauser,1
+1956,1,Juan Manuel,Fangio,FAN,https://www.formula1.com/en/results/1956/drivers/JUAFAN01/juan-manuel-fangio,ARG,Ferrari,https://www.formula1.com/en/results/1956/team/Ferrari,30
+1956,2,Stirling,Moss,MOS,https://www.formula1.com/en/results/1956/drivers/STIMOS01/stirling-moss,GBR,Maserati,https://www.formula1.com/en/results/1956/team/Maserati,27
+1956,3,Peter,Collins,COL,https://www.formula1.com/en/results/1956/drivers/PETCOL01/peter-collins,GBR,Ferrari,https://www.formula1.com/en/results/1956/team/Ferrari,25
+1956,4,Jean,Behra,BEH,https://www.formula1.com/en/results/1956/drivers/JEABEH01/jean-behra,FRA,Maserati,https://www.formula1.com/en/results/1956/team/Maserati,22
+1956,5,Pat,Flaherty,FLA,https://www.formula1.com/en/results/1956/drivers/PATFLA01/pat-flaherty,USA,Watson Offenhauser,https://www.formula1.com/en/results/1956/team/Watson-Offenhauser,8
+1956,6,Eugenio,Castellotti,CAS,https://www.formula1.com/en/results/1956/drivers/EUGCAS01/eugenio-castellotti,ITA,Ferrari,https://www.formula1.com/en/results/1956/team/Ferrari,7.5
+1956,7,Sam,Hanks,HAN,https://www.formula1.com/en/results/1956/drivers/SAMHAN01/sam-hanks,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1956/team/Kurtis-Kraft-Offenhauser,6
+1956,7,Paul,Frere,FRE,https://www.formula1.com/en/results/1956/drivers/PAUFRE01/paul-frere,BEL,Ferrari,https://www.formula1.com/en/results/1956/team/Ferrari,6
+1956,7,Paco,Godia,GOD,https://www.formula1.com/en/results/1956/drivers/PACGOD01/paco-godia,ESP,Maserati,https://www.formula1.com/en/results/1956/team/Maserati,6
+1956,10,Jack,Fairman,FAI,https://www.formula1.com/en/results/1956/drivers/JACFAI01/jack-fairman,GBR,Connaught Alta,https://www.formula1.com/en/results/1956/team/Connaught-Alta,5
+1956,11,Mike,Hawthorn,HAW,https://www.formula1.com/en/results/1956/drivers/MIKHAW01/mike-hawthorn,GBR,BRM,https://www.formula1.com/en/results/1956/team/BRM,4
+1956,11,Luigi,Musso,MUS,https://www.formula1.com/en/results/1956/drivers/LUIMUS01/luigi-musso,ITA,Ferrari,https://www.formula1.com/en/results/1956/team/Ferrari,4
+1956,11,Don,Freeland,FRE,https://www.formula1.com/en/results/1956/drivers/DONFRE01/don-freeland,USA,Phillips Offenhauser,https://www.formula1.com/en/results/1956/team/Phillips-Offenhauser,4
+1956,11,Ron,Flockhart,FLO,https://www.formula1.com/en/results/1956/drivers/RONFLO01/ron-flockhart,GBR,Connaught Alta,https://www.formula1.com/en/results/1956/team/Connaught-Alta,4
+1956,15,Johnnie,Parsons,PAR,https://www.formula1.com/en/results/1956/drivers/JOHPAR01/johnnie-parsons,USA,Kuzma Offenhauser,https://www.formula1.com/en/results/1956/team/Kuzma-Offenhauser,3
+1956,15,Harry,Schell,SCH,https://www.formula1.com/en/results/1956/drivers/HARSCH01/harry-schell,USA,Vanwall,https://www.formula1.com/en/results/1956/team/Vanwall,3
+1956,15,Alfonso,de Portago,DEP,https://www.formula1.com/en/results/1956/drivers/ALFDEP01/alfonso-de-portago,ESP,Ferrari,https://www.formula1.com/en/results/1956/team/Ferrari,3
+1956,15,Cesare,Perdisa,PER,https://www.formula1.com/en/results/1956/drivers/CESPER01/cesare-perdisa,ITA,Maserati,https://www.formula1.com/en/results/1956/team/Maserati,3
+1956,19,Olivier,Gendebien,GEN,https://www.formula1.com/en/results/1956/drivers/OLIGEN01/olivier-gendebien,BEL,Ferrari,https://www.formula1.com/en/results/1956/team/Ferrari,2
+1956,19,Hermano,da Silva Ramos,DAS,https://www.formula1.com/en/results/1956/drivers/HERDAS01/hermano-da-silva-ramos,BRA,Gordini,https://www.formula1.com/en/results/1956/team/Gordini,2
+1956,19,Dick,Rathmann,RAT,https://www.formula1.com/en/results/1956/drivers/DICRAT01/dick-rathmann,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1956/team/Kurtis-Kraft-Offenhauser,2
+1956,19,Luigi,Villoresi,VIL,https://www.formula1.com/en/results/1956/drivers/LUIVIL01/luigi-villoresi,ITA,Maserati,https://www.formula1.com/en/results/1956/team/Maserati,2
+1956,19,Horace,Gould,GOU,https://www.formula1.com/en/results/1956/drivers/HORGOU01/horace-gould,GBR,Maserati,https://www.formula1.com/en/results/1956/team/Maserati,2
+1956,19,Louis,Rosier,ROS,https://www.formula1.com/en/results/1956/drivers/LOUROS01/louis-rosier,FRA,Maserati,https://www.formula1.com/en/results/1956/team/Maserati,2
+1956,25,Gerino,Gerini,GER,https://www.formula1.com/en/results/1956/drivers/GERGER01/gerino-gerini,ITA,Maserati,https://www.formula1.com/en/results/1956/team/Maserati,1.5
+1956,25,Chico,Landi,LAN,https://www.formula1.com/en/results/1956/drivers/CHILAN01/chico-landi,BRA,Maserati,https://www.formula1.com/en/results/1956/team/Maserati,1.5
+1956,27,Paul,Russo,RUS,https://www.formula1.com/en/results/1956/drivers/PAURUS01/paul-russo,USA,Kurtis Kraft Novi,https://www.formula1.com/en/results/1956/team/Kurtis-Kraft-Novi,1
+1953,1,Alberto,Ascari,ASC,https://www.formula1.com/en/results/1953/drivers/ALBASC01/alberto-ascari,ITA,Ferrari,https://www.formula1.com/en/results/1953/team/Ferrari,34.5
+1953,2,Juan Manuel,Fangio,FAN,https://www.formula1.com/en/results/1953/drivers/JUAFAN01/juan-manuel-fangio,ARG,Maserati,https://www.formula1.com/en/results/1953/team/Maserati,27.5
+1953,3,Nino,Farina,FAR,https://www.formula1.com/en/results/1953/drivers/NINFAR01/nino-farina,ITA,Ferrari,https://www.formula1.com/en/results/1953/team/Ferrari,26
+1953,4,Mike,Hawthorn,HAW,https://www.formula1.com/en/results/1953/drivers/MIKHAW01/mike-hawthorn,GBR,Ferrari,https://www.formula1.com/en/results/1953/team/Ferrari,19
+1953,5,Luigi,Villoresi,VIL,https://www.formula1.com/en/results/1953/drivers/LUIVIL01/luigi-villoresi,ITA,Ferrari,https://www.formula1.com/en/results/1953/team/Ferrari,17
+1953,6,Jose Froilan,Gonzalez,GON,https://www.formula1.com/en/results/1953/drivers/JOSGON01/jose-froilan-gonzalez,ARG,Maserati,https://www.formula1.com/en/results/1953/team/Maserati,13.5
+1953,7,Bill,Vukovich,VUK,https://www.formula1.com/en/results/1953/drivers/BILVUK01/bill-vukovich,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1953/team/Kurtis-Kraft-Offenhauser,9
+1953,8,Toulo,de Graffenried,DEG,https://www.formula1.com/en/results/1953/drivers/TOUDEG01/toulo-de-graffenried,SUI,Maserati,https://www.formula1.com/en/results/1953/team/Maserati,7
+1953,9,Felice,Bonetto,BON,https://www.formula1.com/en/results/1953/drivers/FELBON01/felice-bonetto,ITA,Maserati,https://www.formula1.com/en/results/1953/team/Maserati,6.5
+1953,10,Art,Cross,CRO,https://www.formula1.com/en/results/1953/drivers/ARTCRO01/art-cross,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1953/team/Kurtis-Kraft-Offenhauser,6
+1953,11,Onofre,Marimon,MAR,https://www.formula1.com/en/results/1953/drivers/ONOMAR01/onofre-marimon,ARG,Maserati,https://www.formula1.com/en/results/1953/team/Maserati,4
+1953,11,Maurice,Trintignant,TRI,https://www.formula1.com/en/results/1953/drivers/MAUTRI01/maurice-trintignant,FRA,Gordini,https://www.formula1.com/en/results/1953/team/Gordini,4
+1953,13,Oscar Alfredo,Galvez,GAL,https://www.formula1.com/en/results/1953/drivers/OSCGAL01/oscar-alfredo-galvez,ARG,Maserati,https://www.formula1.com/en/results/1953/team/Maserati,2
+1953,13,Sam,Hanks,HAN,https://www.formula1.com/en/results/1953/drivers/SAMHAN01/sam-hanks,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1953/team/Kurtis-Kraft-Offenhauser,2
+1953,13,Duane,Carter,CAR,https://www.formula1.com/en/results/1953/drivers/DUACAR01/duane-carter,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1953/team/Kurtis-Kraft-Offenhauser,2
+1953,13,Jack,McGrath,MCG,https://www.formula1.com/en/results/1953/drivers/JACMCG01/jack-mcgrath,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1953/team/Kurtis-Kraft-Offenhauser,2
+1953,13,Hermann,Lang,LAN,https://www.formula1.com/en/results/1953/drivers/HERLAN01/hermann-lang,GER,Maserati,https://www.formula1.com/en/results/1953/team/Maserati,2
+1953,18,Fred,Agabashian,AGA,https://www.formula1.com/en/results/1953/drivers/FREAGA01/fred-agabashian,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1953/team/Kurtis-Kraft-Offenhauser,1.5
+1953,18,Paul,Russo,RUS,https://www.formula1.com/en/results/1953/drivers/PAURUS01/paul-russo,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1953/team/Kurtis-Kraft-Offenhauser,1.5
+1959,1,Jack,Brabham,BRA,https://www.formula1.com/en/results/1959/drivers/JACBRA01/jack-brabham,AUS,Cooper Climax,https://www.formula1.com/en/results/1959/team/Cooper-Climax,31
+1959,2,Tony,Brooks,BRO,https://www.formula1.com/en/results/1959/drivers/TONBRO01/tony-brooks,GBR,Ferrari,https://www.formula1.com/en/results/1959/team/Ferrari,27
+1959,3,Stirling,Moss,MOS,https://www.formula1.com/en/results/1959/drivers/STIMOS01/stirling-moss,GBR,Cooper Climax,https://www.formula1.com/en/results/1959/team/Cooper-Climax,25.5
+1959,4,Phil,Hill,HIL,https://www.formula1.com/en/results/1959/drivers/PHIHIL01/phil-hill,USA,Ferrari,https://www.formula1.com/en/results/1959/team/Ferrari,20
+1959,5,Maurice,Trintignant,TRI,https://www.formula1.com/en/results/1959/drivers/MAUTRI01/maurice-trintignant,FRA,Cooper Climax,https://www.formula1.com/en/results/1959/team/Cooper-Climax,19
+1959,6,Bruce,McLaren,MCL,https://www.formula1.com/en/results/1959/drivers/BRUMCL01/bruce-mclaren,NZL,Cooper Climax,https://www.formula1.com/en/results/1959/team/Cooper-Climax,16.5
+1959,7,Dan,Gurney,GUR,https://www.formula1.com/en/results/1959/drivers/DANGUR01/dan-gurney,USA,Ferrari,https://www.formula1.com/en/results/1959/team/Ferrari,13
+1959,8,Jo,Bonnier,BON,https://www.formula1.com/en/results/1959/drivers/JOOBON01/jo-bonnier,SWE,BRM,https://www.formula1.com/en/results/1959/team/BRM,10
+1959,8,Masten,Gregory,GRE,https://www.formula1.com/en/results/1959/drivers/MASGRE01/masten-gregory,USA,Cooper Climax,https://www.formula1.com/en/results/1959/team/Cooper-Climax,10
+1959,10,Rodger,Ward,WAR,https://www.formula1.com/en/results/1959/drivers/RODWAR01/rodger-ward,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1959/team/Kurtis-Kraft-Offenhauser,8
+1959,11,Jim,Rathmann,RAT,https://www.formula1.com/en/results/1959/drivers/JIMRAT01/jim-rathmann,USA,Watson Offenhauser,https://www.formula1.com/en/results/1959/team/Watson-Offenhauser,6
+1959,12,Johnny,Thomson,THO,https://www.formula1.com/en/results/1959/drivers/JOHTHO01/johnny-thomson,USA,Lesovsky Offenhauser,https://www.formula1.com/en/results/1959/team/Lesovsky-Offenhauser,5
+1959,12,Innes,Ireland,IRE,https://www.formula1.com/en/results/1959/drivers/INNIRE01/innes-ireland,GBR,Lotus Climax,https://www.formula1.com/en/results/1959/team/Lotus-Climax,5
+1959,12,Harry,Schell,SCH,https://www.formula1.com/en/results/1959/drivers/HARSCH01/harry-schell,USA,Cooper Climax,https://www.formula1.com/en/results/1959/team/Cooper-Climax,5
+1957,1,Juan Manuel,Fangio,FAN,https://www.formula1.com/en/results/1957/drivers/JUAFAN01/juan-manuel-fangio,ARG,Maserati,https://www.formula1.com/en/results/1957/team/Maserati,40
+1957,2,Stirling,Moss,MOS,https://www.formula1.com/en/results/1957/drivers/STIMOS01/stirling-moss,GBR,Vanwall,https://www.formula1.com/en/results/1957/team/Vanwall,25
+1957,3,Luigi,Musso,MUS,https://www.formula1.com/en/results/1957/drivers/LUIMUS01/luigi-musso,ITA,Ferrari,https://www.formula1.com/en/results/1957/team/Ferrari,16
+1957,4,Mike,Hawthorn,HAW,https://www.formula1.com/en/results/1957/drivers/MIKHAW01/mike-hawthorn,GBR,Ferrari,https://www.formula1.com/en/results/1957/team/Ferrari,13
+1957,5,Tony,Brooks,BRO,https://www.formula1.com/en/results/1957/drivers/TONBRO01/tony-brooks,GBR,Vanwall,https://www.formula1.com/en/results/1957/team/Vanwall,11
+1957,6,Masten,Gregory,GRE,https://www.formula1.com/en/results/1957/drivers/MASGRE01/masten-gregory,USA,Maserati,https://www.formula1.com/en/results/1957/team/Maserati,10
+1957,6,Harry,Schell,SCH,https://www.formula1.com/en/results/1957/drivers/HARSCH01/harry-schell,USA,Maserati,https://www.formula1.com/en/results/1957/team/Maserati,10
+1957,8,Sam,Hanks,HAN,https://www.formula1.com/en/results/1957/drivers/SAMHAN01/sam-hanks,USA,Epperly Offenhauser,https://www.formula1.com/en/results/1957/team/Epperly-Offenhauser,8
+1957,8,Peter,Collins,COL,https://www.formula1.com/en/results/1957/drivers/PETCOL01/peter-collins,GBR,Ferrari,https://www.formula1.com/en/results/1957/team/Ferrari,8
+1957,10,Jim,Rathmann,RAT,https://www.formula1.com/en/results/1957/drivers/JIMRAT01/jim-rathmann,USA,Epperly Offenhauser,https://www.formula1.com/en/results/1957/team/Epperly-Offenhauser,7
+1957,11,Jean,Behra,BEH,https://www.formula1.com/en/results/1957/drivers/JEABEH01/jean-behra,FRA,Maserati,https://www.formula1.com/en/results/1957/team/Maserati,6
+1957,12,Stuart,Lewis-Evans,LEW,https://www.formula1.com/en/results/1957/drivers/STULEW01/stuart-lewis-evans,GBR,Vanwall,https://www.formula1.com/en/results/1957/team/Vanwall,5
+1957,12,Maurice,Trintignant,TRI,https://www.formula1.com/en/results/1957/drivers/MAUTRI01/maurice-trintignant,FRA,Ferrari,https://www.formula1.com/en/results/1957/team/Ferrari,5
+1957,14,Carlos,Menditeguy,MEN,https://www.formula1.com/en/results/1957/drivers/CARMEN01/carlos-menditeguy,ARG,Maserati,https://www.formula1.com/en/results/1957/team/Maserati,4
+1957,14,Jimmy,Bryan,BRY,https://www.formula1.com/en/results/1957/drivers/JIMBRY01/jimmy-bryan,USA,Kuzma Offenhauser,https://www.formula1.com/en/results/1957/team/Kuzma-Offenhauser,4
+1957,14,Wolfgang,von Trips,VON,https://www.formula1.com/en/results/1957/drivers/WOLVON01/wolfgang-von-trips,GER,Ferrari,https://www.formula1.com/en/results/1957/team/Ferrari,4
+1957,17,Paul,Russo,RUS,https://www.formula1.com/en/results/1957/drivers/PAURUS01/paul-russo,USA,Kurtis Kraft Novi,https://www.formula1.com/en/results/1957/team/Kurtis-Kraft-Novi,3
+1957,18,Andy,Linden,LIN,https://www.formula1.com/en/results/1957/drivers/ANDLIN01/andy-linden,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1957/team/Kurtis-Kraft-Offenhauser,2
+1957,18,Roy,Salvadori,SAL,https://www.formula1.com/en/results/1957/drivers/ROYSAL01/roy-salvadori,GBR,Cooper Climax,https://www.formula1.com/en/results/1957/team/Cooper-Climax,2
+1957,20,Alfonso,de Portago,DEP,https://www.formula1.com/en/results/1957/drivers/ALFDEP01/alfonso-de-portago,ESP,Ferrari,https://www.formula1.com/en/results/1957/team/Ferrari,1
+1957,20,Jose Froilan,Gonzalez,GON,https://www.formula1.com/en/results/1957/drivers/JOSGON01/jose-froilan-gonzalez,ARG,Ferrari,https://www.formula1.com/en/results/1957/team/Ferrari,1
+1957,20,Giorgio,Scarlatti,SCA,https://www.formula1.com/en/results/1957/drivers/GIOSCA01/giorgio-scarlatti,ITA,Maserati,https://www.formula1.com/en/results/1957/team/Maserati,1
+1954,1,Juan Manuel,Fangio,FAN,https://www.formula1.com/en/results/1954/drivers/JUAFAN01/juan-manuel-fangio,ARG,Mercedes-Benz,https://www.formula1.com/en/results/1954/team/Mercedes-Benz,42
+1954,2,Jose Froilan,Gonzalez,GON,https://www.formula1.com/en/results/1954/drivers/JOSGON01/jose-froilan-gonzalez,ARG,Ferrari,https://www.formula1.com/en/results/1954/team/Ferrari,25.1
+1954,3,Mike,Hawthorn,HAW,https://www.formula1.com/en/results/1954/drivers/MIKHAW01/mike-hawthorn,GBR,Ferrari,https://www.formula1.com/en/results/1954/team/Ferrari,24.6
+1954,4,Maurice,Trintignant,TRI,https://www.formula1.com/en/results/1954/drivers/MAUTRI01/maurice-trintignant,FRA,Ferrari,https://www.formula1.com/en/results/1954/team/Ferrari,17
+1954,5,Karl,Kling,KLI,https://www.formula1.com/en/results/1954/drivers/KARKLI01/karl-kling,GER,Mercedes-Benz,https://www.formula1.com/en/results/1954/team/Mercedes-Benz,12
+1954,6,Bill,Vukovich,VUK,https://www.formula1.com/en/results/1954/drivers/BILVUK01/bill-vukovich,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1954/team/Kurtis-Kraft-Offenhauser,8
+1954,6,Hans,Herrmann,HER,https://www.formula1.com/en/results/1954/drivers/HANHER01/hans-herrmann,GER,Mercedes-Benz,https://www.formula1.com/en/results/1954/team/Mercedes-Benz,8
+1954,8,Nino,Farina,FAR,https://www.formula1.com/en/results/1954/drivers/NINFAR01/nino-farina,ITA,Ferrari,https://www.formula1.com/en/results/1954/team/Ferrari,6
+1954,8,Jimmy,Bryan,BRY,https://www.formula1.com/en/results/1954/drivers/JIMBRY01/jimmy-bryan,USA,Kuzma Offenhauser,https://www.formula1.com/en/results/1954/team/Kuzma-Offenhauser,6
+1954,8,Luigi,Musso,MUS,https://www.formula1.com/en/results/1954/drivers/LUIMUS01/luigi-musso,ITA,Maserati,https://www.formula1.com/en/results/1954/team/Maserati,6
+1954,8,Roberto,Mieres,MIE,https://www.formula1.com/en/results/1954/drivers/ROBMIE01/roberto-mieres,ARG,Maserati,https://www.formula1.com/en/results/1954/team/Maserati,6
+1954,12,Jack,McGrath,MCG,https://www.formula1.com/en/results/1954/drivers/JACMCG01/jack-mcgrath,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1954/team/Kurtis-Kraft-Offenhauser,5
+1954,13,Stirling,Moss,MOS,https://www.formula1.com/en/results/1954/drivers/STIMOS01/stirling-moss,GBR,Maserati,https://www.formula1.com/en/results/1954/team/Maserati,4.1
+1954,13,Onofre,Marimon,MAR,https://www.formula1.com/en/results/1954/drivers/ONOMAR01/onofre-marimon,ARG,Maserati,https://www.formula1.com/en/results/1954/team/Maserati,4.1
+1954,15,Robert,Manzon,MAN,https://www.formula1.com/en/results/1954/drivers/ROBMAN01/robert-manzon,FRA,Ferrari,https://www.formula1.com/en/results/1954/team/Ferrari,4
+1954,15,Sergio,Mantovani,MAN,https://www.formula1.com/en/results/1954/drivers/SERMAN01/sergio-mantovani,ITA,Maserati,https://www.formula1.com/en/results/1954/team/Maserati,4
+1954,17,Prince,Bira,BIR,https://www.formula1.com/en/results/1954/drivers/PRIBIR01/prince-bira,THA,Maserati,https://www.formula1.com/en/results/1954/team/Maserati,3
+1954,18,Elie,Bayol,BAY,https://www.formula1.com/en/results/1954/drivers/ELIBAY01/elie-bayol,FRA,Gordini,https://www.formula1.com/en/results/1954/team/Gordini,2
+1952,1,Alberto,Ascari,ASC,https://www.formula1.com/en/results/1952/drivers/ALBASC01/alberto-ascari,ITA,Ferrari,https://www.formula1.com/en/results/1952/team/Ferrari,36
+1952,2,Nino,Farina,FAR,https://www.formula1.com/en/results/1952/drivers/NINFAR01/nino-farina,ITA,Ferrari,https://www.formula1.com/en/results/1952/team/Ferrari,24
+1952,3,Piero,Taruffi,TAR,https://www.formula1.com/en/results/1952/drivers/PIETAR01/piero-taruffi,ITA,Ferrari,https://www.formula1.com/en/results/1952/team/Ferrari,22
+1952,4,Rudi,Fischer,FIS,https://www.formula1.com/en/results/1952/drivers/RUDFIS01/rudi-fischer,SUI,Ferrari,https://www.formula1.com/en/results/1952/team/Ferrari,10
+1952,4,Mike,Hawthorn,HAW,https://www.formula1.com/en/results/1952/drivers/MIKHAW01/mike-hawthorn,GBR,Cooper Bristol,https://www.formula1.com/en/results/1952/team/Cooper-Bristol,10
+1952,6,Robert,Manzon,MAN,https://www.formula1.com/en/results/1952/drivers/ROBMAN01/robert-manzon,FRA,Gordini,https://www.formula1.com/en/results/1952/team/Gordini,9
+1952,7,Troy,Ruttman,RUT,https://www.formula1.com/en/results/1952/drivers/TRORUT01/troy-ruttman,USA,Kuzma Offenhauser,https://www.formula1.com/en/results/1952/team/Kuzma-Offenhauser,8
+1952,7,Luigi,Villoresi,VIL,https://www.formula1.com/en/results/1952/drivers/LUIVIL01/luigi-villoresi,ITA,Ferrari,https://www.formula1.com/en/results/1952/team/Ferrari,8
+1952,9,Jose Froilan,Gonzalez,GON,https://www.formula1.com/en/results/1952/drivers/JOSGON01/jose-froilan-gonzalez,ARG,Maserati,https://www.formula1.com/en/results/1952/team/Maserati,6.5
+1952,10,Jim,Rathmann,RAT,https://www.formula1.com/en/results/1952/drivers/JIMRAT01/jim-rathmann,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1952/team/Kurtis-Kraft-Offenhauser,6
+1952,10,Jean,Behra,BEH,https://www.formula1.com/en/results/1952/drivers/JEABEH01/jean-behra,FRA,Gordini,https://www.formula1.com/en/results/1952/team/Gordini,6
+1952,12,Sam,Hanks,HAN,https://www.formula1.com/en/results/1952/drivers/SAMHAN01/sam-hanks,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1952/team/Kurtis-Kraft-Offenhauser,4
+1952,13,Ken,Wharton,WHA,https://www.formula1.com/en/results/1952/drivers/KENWHA01/ken-wharton,GBR,,https://www.formula1.com/en/results/1952/team,3
+1952,13,Duane,Carter,CAR,https://www.formula1.com/en/results/1952/drivers/DUACAR01/duane-carter,USA,Lesovsky Offenhauser,https://www.formula1.com/en/results/1952/team/Lesovsky-Offenhauser,3
+1952,13,Dennis,Poore,POO,https://www.formula1.com/en/results/1952/drivers/DENPOO01/dennis-poore,GBR,Connaught Lea Francis,https://www.formula1.com/en/results/1952/team/Connaught-Lea-Francis,3
+1952,16,Alan,Brown,BRO,https://www.formula1.com/en/results/1952/drivers/ALABRO01/alan-brown,GBR,Cooper Bristol,https://www.formula1.com/en/results/1952/team/Cooper-Bristol,2
+1952,16,Art,Cross,CRO,https://www.formula1.com/en/results/1952/drivers/ARTCRO01/art-cross,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1952/team/Kurtis-Kraft-Offenhauser,2
+1952,16,Paul,Frere,FRE,https://www.formula1.com/en/results/1952/drivers/PAUFRE01/paul-frere,BEL,Simca-Gordini,https://www.formula1.com/en/results/1952/team/Simca-Gordini,2
+1952,16,Maurice,Trintignant,TRI,https://www.formula1.com/en/results/1952/drivers/MAUTRI01/maurice-trintignant,FRA,Gordini,https://www.formula1.com/en/results/1952/team/Gordini,2
+1952,16,Eric,Thompson,THO,https://www.formula1.com/en/results/1952/drivers/ERITHO01/eric-thompson,GBR,Connaught Lea Francis,https://www.formula1.com/en/results/1952/team/Connaught-Lea-Francis,2
+1952,16,Felice,Bonetto,BON,https://www.formula1.com/en/results/1952/drivers/FELBON01/felice-bonetto,ITA,Maserati,https://www.formula1.com/en/results/1952/team/Maserati,2
+1952,22,Bill,Vukovich,VUK,https://www.formula1.com/en/results/1952/drivers/BILVUK01/bill-vukovich,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1952/team/Kurtis-Kraft-Offenhauser,1
+1959,15,Tony,Bettenhausen,BET,https://www.formula1.com/en/results/1959/drivers/TONBET01/tony-bettenhausen,USA,Epperly Offenhauser,https://www.formula1.com/en/results/1959/team/Epperly-Offenhauser,3
+1959,15,Olivier,Gendebien,GEN,https://www.formula1.com/en/results/1959/drivers/OLIGEN01/olivier-gendebien,BEL,Ferrari,https://www.formula1.com/en/results/1959/team/Ferrari,3
+1959,17,Paul,Goldsmith,GOL,https://www.formula1.com/en/results/1959/drivers/PAUGOL01/paul-goldsmith,USA,Epperly Offenhauser,https://www.formula1.com/en/results/1959/team/Epperly-Offenhauser,2
+1959,17,Jean,Behra,BEH,https://www.formula1.com/en/results/1959/drivers/JEABEH01/jean-behra,FRA,Ferrari,https://www.formula1.com/en/results/1959/team/Ferrari,2
+1959,17,Cliff,Allison,ALL,https://www.formula1.com/en/results/1959/drivers/CLIALL01/cliff-allison,GBR,Ferrari,https://www.formula1.com/en/results/1959/team/Ferrari,2
+1954,18,Mike,Nazaruk,NAZ,https://www.formula1.com/en/results/1954/drivers/MIKNAZ01/mike-nazaruk,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1954/team/Kurtis-Kraft-Offenhauser,2
+1954,18,Andre,Pilette,PIL,https://www.formula1.com/en/results/1954/drivers/ANDPIL01/andre-pilette,BEL,Gordini,https://www.formula1.com/en/results/1954/team/Gordini,2
+1954,18,Luigi,Villoresi,VIL,https://www.formula1.com/en/results/1954/drivers/LUIVIL01/luigi-villoresi,ITA,Lancia,https://www.formula1.com/en/results/1954/team/Lancia,2
+1954,18,Umberto,Maglioli,MAG,https://www.formula1.com/en/results/1954/drivers/UMBMAG01/umberto-maglioli,ITA,Ferrari,https://www.formula1.com/en/results/1954/team/Ferrari,2
+1954,23,Troy,Ruttman,RUT,https://www.formula1.com/en/results/1954/drivers/TRORUT01/troy-ruttman,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1954/team/Kurtis-Kraft-Offenhauser,1.5
+1954,23,Duane,Carter,CAR,https://www.formula1.com/en/results/1954/drivers/DUACAR01/duane-carter,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1954/team/Kurtis-Kraft-Offenhauser,1.5
+1954,25,Alberto,Ascari,ASC,https://www.formula1.com/en/results/1954/drivers/ALBASC01/alberto-ascari,ITA,Lancia,https://www.formula1.com/en/results/1954/team/Lancia,1.1
+1954,26,Jean,Behra,BEH,https://www.formula1.com/en/results/1954/drivers/JEABEH01/jean-behra,FRA,Gordini,https://www.formula1.com/en/results/1954/team/Gordini,0.1
+1950,1,Nino,Farina,FAR,https://www.formula1.com/en/results/1950/drivers/NINFAR01/nino-farina,ITA,Alfa Romeo,https://www.formula1.com/en/results/1950/team/Alfa-Romeo,30
+1950,2,Juan Manuel,Fangio,FAN,https://www.formula1.com/en/results/1950/drivers/JUAFAN01/juan-manuel-fangio,ARG,Alfa Romeo,https://www.formula1.com/en/results/1950/team/Alfa-Romeo,27
+1950,3,Luigi,Fagioli,FAG,https://www.formula1.com/en/results/1950/drivers/LUIFAG01/luigi-fagioli,ITA,Alfa Romeo,https://www.formula1.com/en/results/1950/team/Alfa-Romeo,24
+1950,4,Louis,Rosier,ROS,https://www.formula1.com/en/results/1950/drivers/LOUROS01/louis-rosier,FRA,Talbot-Lago,https://www.formula1.com/en/results/1950/team/Talbot-Lago,13
+1950,5,Alberto,Ascari,ASC,https://www.formula1.com/en/results/1950/drivers/ALBASC01/alberto-ascari,ITA,,https://www.formula1.com/en/results/1950/team,11
+1950,6,Johnnie,Parsons,PAR,https://www.formula1.com/en/results/1950/drivers/JOHPAR01/johnnie-parsons,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1950/team/Kurtis-Kraft-Offenhauser,9
+1950,7,Bill,Holland,HOL,https://www.formula1.com/en/results/1950/drivers/BILHOL01/bill-holland,USA,Deidt Offenhauser,https://www.formula1.com/en/results/1950/team/Deidt-Offenhauser,6
+1950,8,Prince,Bira,BIR,https://www.formula1.com/en/results/1950/drivers/PRIBIR01/prince-bira,THA,Maserati,https://www.formula1.com/en/results/1950/team/Maserati,5
+1950,9,Reg,Parnell,PAR,https://www.formula1.com/en/results/1950/drivers/REGPAR01/reg-parnell,GBR,Maserati,https://www.formula1.com/en/results/1950/team/Maserati,4
+1950,9,Louis,Chiron,CHI,https://www.formula1.com/en/results/1950/drivers/LOUCHI01/louis-chiron,MON,Maserati,https://www.formula1.com/en/results/1950/team/Maserati,4
+1950,9,Mauri,Rose,ROS,https://www.formula1.com/en/results/1950/drivers/MAUROS01/mauri-rose,USA,Deidt Offenhauser,https://www.formula1.com/en/results/1950/team/Deidt-Offenhauser,4
+1950,9,Peter,Whitehead,WHI,https://www.formula1.com/en/results/1950/drivers/PETWHI01/peter-whitehead,GBR,Ferrari,https://www.formula1.com/en/results/1950/team/Ferrari,4
+1950,13,Yves,Giraud-Cabantous,GIR,https://www.formula1.com/en/results/1950/drivers/YVECAB01/yves-giraud-cabantous,FRA,Talbot-Lago,https://www.formula1.com/en/results/1950/team/Talbot-Lago,3
+1950,13,Raymond,Sommer,SOM,https://www.formula1.com/en/results/1950/drivers/RAYSOM01/raymond-sommer,FRA,Talbot-Lago,https://www.formula1.com/en/results/1950/team/Talbot-Lago,3
+1950,13,Cecil,Green,GRE,https://www.formula1.com/en/results/1950/drivers/CECGRE01/cecil-green,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1950/team/Kurtis-Kraft-Offenhauser,3
+1950,13,Robert,Manzon,MAN,https://www.formula1.com/en/results/1950/drivers/ROBMAN01/robert-manzon,FRA,Simca-Gordini,https://www.formula1.com/en/results/1950/team/Simca-Gordini,3
+1950,13,Dorino,Serafini,SER,https://www.formula1.com/en/results/1950/drivers/DORSER01/dorino-serafini,ITA,,https://www.formula1.com/en/results/1950/team,3
+1950,13,Philippe,Etancelin,ETA,https://www.formula1.com/en/results/1950/drivers/PHIETA01/philippe-etancelin,FRA,,https://www.formula1.com/en/results/1950/team,3
+1950,19,Felice,Bonetto,BON,https://www.formula1.com/en/results/1950/drivers/FELBON01/felice-bonetto,ITA,Milano Speluzzi,https://www.formula1.com/en/results/1950/team/Milano-Speluzzi,2
+1950,20,Tony,Bettenhausen,BET,https://www.formula1.com/en/results/1950/drivers/TONBET01/tony-bettenhausen,USA,Deidt Offenhauser,https://www.formula1.com/en/results/1950/team/Deidt-Offenhauser,1
+1950,20,Joie,Chitwood,CHI,https://www.formula1.com/en/results/1950/drivers/JOICHI01/joie-chitwood,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1950/team/Kurtis-Kraft-Offenhauser,1
+1950,20,Eugene,Chaboud,CHA,https://www.formula1.com/en/results/1950/drivers/EUGCHA01/eugene-chaboud,FRA,,https://www.formula1.com/en/results/1950/team,1
+1951,1,Juan Manuel,Fangio,FAN,https://www.formula1.com/en/results/1951/drivers/JUAFAN01/juan-manuel-fangio,ARG,Alfa Romeo,https://www.formula1.com/en/results/1951/team/Alfa-Romeo,31
+1951,2,Alberto,Ascari,ASC,https://www.formula1.com/en/results/1951/drivers/ALBASC01/alberto-ascari,ITA,Ferrari,https://www.formula1.com/en/results/1951/team/Ferrari,25
+1951,3,Jose Froilan,Gonzalez,GON,https://www.formula1.com/en/results/1951/drivers/JOSGON01/jose-froilan-gonzalez,ARG,,https://www.formula1.com/en/results/1951/team,24
+1951,4,Nino,Farina,FAR,https://www.formula1.com/en/results/1951/drivers/NINFAR01/nino-farina,ITA,Alfa Romeo,https://www.formula1.com/en/results/1951/team/Alfa-Romeo,19
+1951,5,Luigi,Villoresi,VIL,https://www.formula1.com/en/results/1951/drivers/LUIVIL01/luigi-villoresi,ITA,Ferrari,https://www.formula1.com/en/results/1951/team/Ferrari,15
+1951,6,Piero,Taruffi,TAR,https://www.formula1.com/en/results/1951/drivers/PIETAR01/piero-taruffi,ITA,Ferrari,https://www.formula1.com/en/results/1951/team/Ferrari,10
+1951,7,Lee,Wallard,WAL,https://www.formula1.com/en/results/1951/drivers/LEEWAL01/lee-wallard,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1951/team/Kurtis-Kraft-Offenhauser,9
+1951,8,Felice,Bonetto,BON,https://www.formula1.com/en/results/1951/drivers/FELBON01/felice-bonetto,ITA,Alfa Romeo,https://www.formula1.com/en/results/1951/team/Alfa-Romeo,7
+1951,9,Mike,Nazaruk,NAZ,https://www.formula1.com/en/results/1951/drivers/MIKNAZ01/mike-nazaruk,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1951/team/Kurtis-Kraft-Offenhauser,6
+1951,10,Reg,Parnell,PAR,https://www.formula1.com/en/results/1951/drivers/REGPAR01/reg-parnell,GBR,BRM,https://www.formula1.com/en/results/1951/team/BRM,5
+1951,11,Luigi,Fagioli,FAG,https://www.formula1.com/en/results/1951/drivers/LUIFAG01/luigi-fagioli,ITA,Alfa Romeo,https://www.formula1.com/en/results/1951/team/Alfa-Romeo,4
+1951,12,Consalvo,Sanesi,SAN,https://www.formula1.com/en/results/1951/drivers/CONSAN01/consalvo-sanesi,ITA,Alfa Romeo,https://www.formula1.com/en/results/1951/team/Alfa-Romeo,3
+1951,12,Andy,Linden,LIN,https://www.formula1.com/en/results/1951/drivers/ANDLIN01/andy-linden,USA,Sherman Offenhauser,https://www.formula1.com/en/results/1951/team/Sherman-Offenhauser,3
+1951,12,Louis,Rosier,ROS,https://www.formula1.com/en/results/1951/drivers/LOUROS01/louis-rosier,FRA,,https://www.formula1.com/en/results/1951/team,3
+1951,15,Toulo,de Graffenried,DEG,https://www.formula1.com/en/results/1951/drivers/TOUDEG01/toulo-de-graffenried,SUI,Alfa Romeo,https://www.formula1.com/en/results/1951/team/Alfa-Romeo,2
+1951,15,Manny,Ayulo,AYU,https://www.formula1.com/en/results/1951/drivers/MANAYU01/manny-ayulo,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1951/team/Kurtis-Kraft-Offenhauser,2
+1951,15,Bobby,Ball,BAL,https://www.formula1.com/en/results/1951/drivers/BOBBAL01/bobby-ball,USA,Schroeder Offenhauser,https://www.formula1.com/en/results/1951/team/Schroeder-Offenhauser,2
+1951,15,Jack,McGrath,MCG,https://www.formula1.com/en/results/1951/drivers/JACMCG01/jack-mcgrath,USA,Kurtis Kraft Offenhauser,https://www.formula1.com/en/results/1951/team/Kurtis-Kraft-Offenhauser,2
+1951,15,Yves,Giraud-Cabantous,GIR,https://www.formula1.com/en/results/1951/drivers/YVECAB01/yves-giraud-cabantous,FRA,,https://www.formula1.com/en/results/1951/team,2
